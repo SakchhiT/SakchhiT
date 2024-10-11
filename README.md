@@ -1,7 +1,7 @@
 # ✨Hello, World!✨<img src="https://github.com/user-attachments/assets/229ab3df-549d-4eb8-a8f2-24f35edf7bde" alt="mona" width="50"/>
 Welcome to my GitHub! 
 
-I am currently an... <br/>
+I am currently a... <br/>
 &emsp; 🎓**Student** @ [UC Berkeley](https://cdss.berkeley.edu/) studying **Data Science & Computer Science** <br/>
 &emsp; 📈**Data Analyst** and Web Accessibility Assistant @ [Greater Good Science Center](https://greatergood.berkeley.edu/) <br/>
 &emsp; 🎨**Research Assistant** @ [BiD](https://bid.berkeley.edu/) <br/>
