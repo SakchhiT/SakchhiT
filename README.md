@@ -1,4 +1,4 @@
-# ✨Hello, World!✨ <img src="https://github.com/user-attachments/assets/229ab3df-549d-4eb8-a8f2-24f35edf7bde" alt="mona" width="50"/>
+# ✨Hello, World!✨<img src="https://github.com/user-attachments/assets/229ab3df-549d-4eb8-a8f2-24f35edf7bde" alt="mona" width="50"/>
 Welcome to my GitHub! 
 
 I am currently an... <br/>
