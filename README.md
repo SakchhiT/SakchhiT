@@ -2,7 +2,7 @@
 Welcome to my GitHub! 
 
 I am currently a... <br/>
-&emsp; 🎓**Student** @ [UC Berkeley](https://cdss.berkeley.edu/) studying **Data Science & Computer Science** <br/>
+&emsp; 🎓**Student** @ [UC Berkeley](https://cdss.berkeley.edu/) studying **Data Science & Economics** <br/>
 &emsp; 📈**Data Analyst** and Web Accessibility Assistant @ [Greater Good Science Center](https://greatergood.berkeley.edu/) <br/>
 &emsp; 🎨**Research Assistant** @ [BiD](https://bid.berkeley.edu/) <br/>
 
