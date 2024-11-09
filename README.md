@@ -6,7 +6,7 @@ I am currently a... <br/>
 &emsp; 📈**Data Analyst** and Web Accessibility Assistant @ [Greater Good Science Center](https://greatergood.berkeley.edu/) <br/>
 &emsp; 🎨**Research Assistant** @ [BiD](https://bid.berkeley.edu/) <br/>
 
-I am also an artist 🖼️, plant-mom 🪴, foodie 🥘, and a museum lover 🏛️ 😋.   
+I am also an illustrator 🖼️, cat-mom 🐈, foodie 🥘, and a museum lover 🏛️ 😋.   
 
 ## Contacts 
 <a href="https://www.instagram.com/sakchhiithapa/">
